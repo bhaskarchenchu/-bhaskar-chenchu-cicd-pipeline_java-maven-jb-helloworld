@@ -1,4 +1,4 @@
-@Library('sharedlib') _
+@Library('jenkins-shared-library@release') _
 pipeline {
     agent {
         label any 
